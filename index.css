@@ -1,0 +1,66 @@
+.meet-image {
+    display: flex;
+}
+
+.meet-image img {
+    height: 70px;
+    width: 70px;
+}
+
+.meet-image p {
+    font-size: 23px;
+}
+
+input[type="text"] {
+    padding: 10px 10px;
+    height: 15px;
+    width: 15px;
+    background-color: rgb(41, 38, 38);
+    color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 5px;
+    right: 21px;
+}
+
+.middlediv {
+    display: flex;
+}
+
+.middlediv .one-div {
+    margin-left: 30px;
+    width: 872px;
+    margin-top: 229px;
+}
+
+.newmeeting {
+    border: 2px solid blue;
+    border-radius: 5px;
+    background-color: blue;
+    width: 140px;
+    text-align: center;
+}
+
+.join {
+    border: 2px solid blue;
+    border-radius: 5px;
+    color: blue;
+    width: 140px;
+    text-align: center;
+}
+
+.seconddiv img {
+    right: 20px;
+}
+
+.firstimage img {
+    height: 80px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.secondimage img {
+    height: 50px;
+    width: 50px;
+}
